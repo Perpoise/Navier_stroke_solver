@@ -1,6 +1,6 @@
 # Navier_stroke_solver
 2D-Channel Flow inlet boundary condition and 3D-Channel Flow periodic boundary condition
-## How to run a code
+## How to run the code
 1. Clone an respiratory
 ```bash
 git clone https://github.com/petpetpeter/Navier_stroke_solver.git
